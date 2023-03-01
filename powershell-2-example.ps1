@@ -9,7 +9,7 @@
 #
 
 #
-#  Requires Microsoft PowerShell 2.0
+#  Requires Microsoft PowerShell 2.0 
 #
 
 (New-Object System.Net.WebClient).DownloadString("https://secure.smslink.ro/sms/gateway/communicate/index.php?connection_id=MyConnectionID&password=MyConnectionPassword&to=07xyzzzzzz&message=TestMessage");
