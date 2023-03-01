@@ -9,6 +9,8 @@ REM    https://www.smslink.ro/get-api-key/
 REM
 
 REM
+REM  Requires Windows Command Prompt and Microsoft PowerShell 3.0
+REM
 REM  Invoke-WebRequest cmdlet was introduced in PowerShell 3.0
 REM    Learn More at https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest
 REM
