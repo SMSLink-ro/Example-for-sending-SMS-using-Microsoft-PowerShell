@@ -16,7 +16,9 @@ The [complete documentation](https://www.smslink.ro/sms-gateway-documentatie-sms
 
 ## System Requirements
 
-[Microsoft PowerShell](https://docs.microsoft.com/en-us/powershell/)
+[Microsoft PowerShell 2.0](https://docs.microsoft.com/en-us/powershell/) for PowerShell 2.0 example
+[Microsoft PowerShell 3.0](https://docs.microsoft.com/en-us/powershell/) for PowerShell 3.0 example
+[Windows Command Prompt](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) for PowerShell invocations from Command Prompt examples
 
 ## Additional modules and integrations
 
