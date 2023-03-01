@@ -9,6 +9,8 @@
 #
 
 #
+#  Requires Microsoft PowerShell 3.0
+#
 #  Invoke-WebRequest cmdlet was introduced in PowerShell 3.0
 #    Learn More at https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest
 #
